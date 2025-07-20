@@ -1,4 +1,5 @@
 {
-  "pair": "Returns-Footfall",
-  "correlation": -0.444
+  "pair": "Footfall-Net_Sales",
+  "correlation": 0.7897
 }
+
